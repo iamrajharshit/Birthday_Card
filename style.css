@@ -145,3 +145,14 @@ body {
     font-size: 120px;
     line-height: 120px;
 }
+
+img{
+    width: 100px;
+    height: 140px;
+    object-fit: contain;
+}
+
+img:hover{
+    transform: scale(1.7);
+    z-index: 2;
+}
