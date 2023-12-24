@@ -1,9 +1,12 @@
 # Wishings_Friends
-A simple webpage to wish people online.
-using github domain.
+### A simple webpage to wish people online.
+### Using github domain.
 
-Just copy both the files.
+### Fork the repo
+
 Edit name whom you gonna wish.
-In <p> section add small message wishing him or her</p>
-Save and publish on the github.
+In `<p>` section add small message wishing him or her , add pics, memories `</p>`
+
+Save and publish on the github using pages in settings.
+
 Using github link, share and wish them in a different way!
